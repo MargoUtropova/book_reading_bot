@@ -8,4 +8,4 @@ __pycache__/
 
 # files:
 fast_track_folders_create.py
-*.txt
+book/*.txt
