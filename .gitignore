@@ -1,0 +1,11 @@
+.env
+
+.venv/
+.vscode/
+__pycache__/
+.DS_Store/
+.ruff_cache/
+
+# files:
+fast_track_folders_create.py
+*.txt
